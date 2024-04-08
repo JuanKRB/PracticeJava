@@ -11,7 +11,10 @@ public class Main {
 		double d = 363636373.3773;
 		boolean isTrue = false;
 		
+		
+		
 		System.out.println(a);
+		System.out.println(u);
 	}
 
 }
