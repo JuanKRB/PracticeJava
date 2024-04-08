@@ -15,6 +15,7 @@ public class Main {
 		
 		System.out.println(a);
 		System.out.println(u);
+		System.out.println(c);
 	}
 
 }
