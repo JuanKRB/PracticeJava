@@ -55,7 +55,7 @@ public class Main {
 		System.out.println("Name: " + name);
 		System.out.println("Age: " + age);	
 		System.out.println("Gender: "+ gender);
-		System.out.println("Contact number: "+ number);
+		System.out.println("Contact Number: " + number);
 		
 		
 		
