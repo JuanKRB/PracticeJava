@@ -14,6 +14,8 @@ public class MultiDimensionalArray {
 				System.out.println("Row: " + i + ", Column: " + j + ", " + marks[i][j]);
 			}
 		}
+		
+		System.out.println();
 
 	}
 
