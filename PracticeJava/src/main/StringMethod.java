@@ -34,7 +34,7 @@ public class StringMethod {
         
         //Remove White Spaces
         System.out.println(str2.trim());
-
+        
         
 	}
 
