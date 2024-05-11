@@ -26,8 +26,8 @@ public class PolymorphismPracticeBefore {
         Animal dog = instance.new Dog();
         Cat cat = instance.new Cat();
 
-        // Llamamos al método makeSound() a través de una referencia de la clase Animal
-        dog.makeSound(); // Output: Woof!
-        cat.makeSound(); // Output: Meow!
+        
+        dog.makeSound(); 
+        cat.makeSound(); 
     }
 }
