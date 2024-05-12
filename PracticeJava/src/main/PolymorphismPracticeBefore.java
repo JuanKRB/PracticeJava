@@ -3,7 +3,7 @@ package main;
 public class PolymorphismPracticeBefore {
     class Animal {
         public void makeSound() {
-            System.out.println("Some generic animal sound");
+            System.out.println("Generic animal sound");
         }
     }
 
