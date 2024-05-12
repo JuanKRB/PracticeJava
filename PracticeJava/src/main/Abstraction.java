@@ -6,6 +6,7 @@ public abstract class Abstraction {
 	public abstract void method2();
 	public abstract void method3();
 
+
 	public static void main(String[] args) {
 		
 		Abstraction abstraction = new SonAbstraction();
