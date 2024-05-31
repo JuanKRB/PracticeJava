@@ -56,6 +56,7 @@ public class InterfacePractice extends Father implements MyInterface, MyInterfac
 		interfacePractice.id = 2;
 		
 		System.out.println("*************");
+		System.out.println("*************");
 		
 		System.out.println(interfacePractice.Firstname);
 		System.out.println(interfacePractice.id);
