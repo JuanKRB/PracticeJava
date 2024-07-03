@@ -60,6 +60,7 @@ public class InterfacePractice extends Father implements MyInterface, MyInterfac
 		
 		
 		
+		
 		System.out.println(interfacePractice.Firstname);
 		System.out.println(interfacePractice.id);
 	}
